@@ -2,6 +2,8 @@
 
 A generic app that can be easily configured to help the user track and optimize any given outcome variable.
 
+[Make a Feature Request](https://feathub.com/crowdsourcing-cures/crowdsourcing-cures-app)
+
 # DEMOS
 - [QuantiModo Web App](https://app.quantimo.do)
 - [QuantiModo for iOS](https://itunes.apple.com/us/app/quantimodo-life-tracker/id1115037060?mt=8)
