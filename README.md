@@ -1,14 +1,10 @@
-# QuantiModo Ionic App
+A life-tracking app that can be easily configured to track and optimize any given outcome.
 
-A generic app that can be easily configured to help the user track and optimize any given outcome variable.
-
-[Make a Feature Request](https://feathub.com/crowdsourcing-cures/crowdsourcing-cures-app)
+[Make a Feature Request](https://github.com/crowdsourcing-cures/crowdsourcing-cures-app/discussions/categories/ideas)
 
 # DEMOS
-- [QuantiModo Web App](https://app.quantimo.do)
-- [QuantiModo for iOS](https://itunes.apple.com/us/app/quantimodo-life-tracker/id1115037060?mt=8)
-- [QuantiModo Chrome Extension ](https://Chrome.google.com/webstore/detail/quantimodo-life-tracking/jioloifallegdkgjklafkkbniianjbgi)
-- [QuantiModo for Android](https://play.google.com/store/apps/details?id=com.quantimodo.quantimodo)
+- [Web App](https://web.quantimo.do)
+- [Chrome Extension](https://chrome.google.com/webstore/detail/moodimodo/lncgjbhijecjdbdgeigfodmiimpmlelg?hl=en-US)
 
 # 5-Minute Quick Start
 1. Fork this repository.
@@ -21,7 +17,7 @@ A generic app that can be easily configured to help the user track and optimize 
 [http://localhost:8100/#/](http://localhost:8100/#/) or similar.
 1. Need help?  Please [create an issue](https://github.com/QuantiModo/quantimodo-android-chrome-ios-web-app/issues) or contact us at [help.quantimo.do](http://help.quantimo.do).
 
-## QuantiModo API
+## API
 For more info about the types of data you can store and get from the QuantiModo API, try out our
 [Interactive API Explorer](https://app.quantimo.do/api/v2/account/api-explorer)
 
